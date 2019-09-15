@@ -1,4 +1,4 @@
-module github.com/francoispqt/gojay
+module github.com/diamondburned/gojay
 
 go 1.12
 
